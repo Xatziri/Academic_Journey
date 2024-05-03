@@ -1,1 +1,3 @@
-# Academic_Journey
+# My Academic Journey
+
+## MSU Denver
